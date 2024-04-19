@@ -1,6 +1,6 @@
-## Configurando Pesquisa Inteligente com Azure Cognitive Search
+# Configurando Pesquisa Inteligente com Azure Cognitive Search
 
-# Introdução
+## Introdução
 Este guia fornecerá um passo a passo para configurar uma pesquisa inteligente utilizando o Azure Cognitive Search, uma poderosa ferramenta que utiliza a inteligência artificial para indexação e consulta de dados.
 
 Passo 1: **Configuração Inicial**
